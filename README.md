@@ -1,2 +1,2 @@
 # DEMO-DL
-Learning example
+Machine Learning examples
